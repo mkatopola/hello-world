@@ -5,7 +5,7 @@ This is a simple console application that prints a greeting message to the scree
 
 I created this software to confirm that my C++ toolchain, editor, and Git workflow are correctly configured before beginning larger projects this semester.
 
-[Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/NBZ54oVEsX8)
 
 # Development Environment
 
@@ -18,7 +18,6 @@ Programming language: C++
 
 # Useful Websites
 
-* [C++ Reference](https://en.cppreference.com/)
-* [g++ Documentation](https://gcc.gnu.org/onlinedocs/)
 * [VS Code C++ Tutorial](https://code.visualstudio.com/docs/languages/cpp)
-
+* [g++ Documentation](https://gcc.gnu.org/onlinedocs/)
+* [C++ Reference](https://en.cppreference.com/)
